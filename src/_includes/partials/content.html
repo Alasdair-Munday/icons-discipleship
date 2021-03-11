@@ -1,8 +1,8 @@
-<div class="w-full max-w-2xl my-8 px-4 lg:mx-0">
+<div class="w-full max-w-2xl grid gap-4 my-8 px-4 lg:mx-0">
     {% if collections.icons %}
         {% for item in collections.icons %}
-            <a href="{{item.url}}" target="_blank" class="shadow-2xl border content-center grid grid-col-3 grid-flow-col gap-4 rounded border-gray-200 hover:border-purple-400">
-                <div>
+            <a href="{{item.url}}" target="_blank" class="shadow-2xl border content-center grid grid-cols-3 grid-flow-col gap-4 rounded border-gray-200 hover:border-purple-400">
+                <div class="col-span-1">
                     <image src="{{item.data.image}}" class="w-max" >
                 </div> 
                 <div class="col-span-2 ">
