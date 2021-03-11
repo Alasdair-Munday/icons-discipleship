@@ -23,7 +23,7 @@ h3 {
   @apply text-2xl font-bold mb-3;
 }
 
-h1,h2,h3 {
+h1,h2,h3, .scribble {
   font-family: 'SketchBlockW03-Bold', fallback, sans-serif;
 }
 
