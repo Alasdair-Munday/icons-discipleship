@@ -1,5 +1,5 @@
 ---
-title: "ICON2: The Table"
+title: The Table
 image: /static/img/Table.png
 description: The table is a thing
 ---
