@@ -10,6 +10,11 @@
   url("/static/fonts/Sketch_Block.ttf") format("truetype");
 } 
 
+body {
+  background-image: url("/static/img/background.png");
+  background-size: cover;
+}
+
 h1 {
   @apply text-4xl tracking-tighter mb-3 text-center lg:text-7xl;
 }
@@ -18,7 +23,7 @@ h3 {
   @apply text-2xl font-bold mb-3;
 }
 
-h1,h2,h3,.scribble {
+h1,h2,h3 {
   font-family: 'SketchBlockW03-Bold', fallback, sans-serif;
 }
 
