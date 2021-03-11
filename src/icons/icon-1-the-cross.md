@@ -1,6 +1,6 @@
 ---
 title: "ICON 1: The Cross"
-image: https://cdn.shopify.com/s/files/1/1136/4188/products/Orthodox_iocn_of_the_Crucifixion_of_our_Lord_5_2737e5dd-6792-44fe-bc79-bec83d569d8e_1800x1800.jpg?v=1566838965
+image: /static/img/cross_icon.jpg
 description: It is at the cross that our journey of discipleship must begin, and
   it is to the cross that we must continually return.
 ---

@@ -17,11 +17,6 @@ h1, h2, h3 {
 }
 
 /* Syntax Highlighting*/
-
-body {
-  @apply font-serif
-}
-
 body :not(pre) > code[class*="language-"],
 body pre[class*="language-"] {
   @apply bg-gray-800;
