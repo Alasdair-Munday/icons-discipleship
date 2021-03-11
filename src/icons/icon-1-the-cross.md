@@ -1,6 +1,6 @@
 ---
 title: "ICON 1: The Cross"
-image: /static/img/cross_icon.jpg
+image: /static/img/Cross.png
 description: It is at the cross that our journey of discipleship must begin, and
   it is to the cross that we must continually return.
 ---
