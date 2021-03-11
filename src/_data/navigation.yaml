@@ -1,10 +1,10 @@
 ---
 items:
-  - text: Menu One
+  - text: Cross 
     url: "#"
-  - text: Menu Two
+  - text: Table
     url: "#"
-  - text: Menu Three
+  - text: Fire
     url: "#"
-  - text: Blog
-    url: "/blog"
+  - text: Vine
+    url: "#"
