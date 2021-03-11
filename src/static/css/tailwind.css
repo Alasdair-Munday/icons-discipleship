@@ -3,6 +3,12 @@
 @tailwind utilities;
 
 /*Your Custom CSS Goes here*/
+@font-face {
+  font-family: "SketchBlockW03-Bold";
+  src: url("/static/fonts/freeversionSketchBlock-Bold.woff2") format("woff2"),
+  url("/static/fonts/freeversionSketchBlock-Bold.woff") format("woff"),
+  url("/static/fonts/Sketch_Block.ttf") format("truetype");
+} 
 
 h1 {
   @apply text-4xl tracking-tighter mb-3 text-center lg:text-7xl;
@@ -12,8 +18,8 @@ h3 {
   @apply text-2xl font-bold mb-3;
 }
 
-h1, h2, h3 {
-  @apply font-sans
+h1,h2,h3 {
+  font-family: 'SketchBlockW03-Bold', fallback, sans-serif;
 }
 
 /* Syntax Highlighting*/
