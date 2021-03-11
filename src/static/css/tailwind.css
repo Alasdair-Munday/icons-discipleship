@@ -12,7 +12,15 @@ h3 {
   @apply text-2xl font-bold mb-3;
 }
 
+h1, h2, h3 {
+  @apply font-sans
+}
+
 /* Syntax Highlighting*/
+
+body {
+  @apply font-serif
+}
 
 body :not(pre) > code[class*="language-"],
 body pre[class*="language-"] {
