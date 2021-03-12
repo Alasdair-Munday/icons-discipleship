@@ -1,9 +1,11 @@
 <div class="w-full max-w-2xl flex flex-col sm:flex-row gap-4 m-5">
     {% if collections.icons %}
         {% for item in collections.icons %}
-            <a href="{{item.url}}" class="flex justify-items-center hover:text-gray-500 justify-center align-bottom flex-1 flex-col gap-4 p-4">
-                <image src="{{item.data.image}}" class="flex-1" >
-                <h3 class="inline-block">{{item.data.title}}</h3>
+            <a href="{{item.url}}" class="flex hover:text-gray-500 align-bottom flex-1 flex-col gap-4 p-4">
+                <div class="flex-1 flex justify-center">
+                    <image src="{{item.data.image}}" class="inline-block w-1/4 sm:w-max" >
+                </div>
+                <h3 class="text-center">{{item.data.title}}</h3>
             </a>
         {% endfor %}
     {% endif %}
