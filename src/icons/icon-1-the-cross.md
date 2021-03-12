@@ -1,6 +1,6 @@
 ---
 title: The Cross
-image: /static/img/Cross.png
+image: /static/img/Cross.svg
 description: It is at the cross that our journey of discipleship must begin, and
   it is to the cross that we must continually return.
 ---

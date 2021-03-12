@@ -10,13 +10,13 @@
   url("/static/fonts/Sketch_Block.ttf") format("truetype");
 } 
 
-body {
+/* body {
   background-image: url("/static/img/background.png");
   background-size: cover;
-}
+} */
 
 h1 {
-  @apply text-4xl tracking-tighter mb-3 text-center lg:text-7xl;
+  @apply tracking-tighter mb-3 text-center text-7xl;
 }
 
 h3 {
@@ -28,9 +28,9 @@ h1,h2,h3, .scribble {
 }
 
 .watercolour {
-  @apply p-20;
   background-image: url("/static/img/watercolour.png");
-  background-size: 100% 100%;
+  background-size: 120% 120%;
+  background-position: center;
 }
 
 .scribble-border {

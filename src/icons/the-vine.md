@@ -1,6 +1,6 @@
 ---
 title: The Vine
-image: /static/img/Vine.png
+image: /static/img/Vine.svg
 description: where grapes come from
 ---
 asfgsf
