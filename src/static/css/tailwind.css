@@ -27,6 +27,17 @@ h1,h2,h3, .scribble {
   font-family: 'SketchBlockW03-Bold', fallback, sans-serif;
 }
 
+.watercolour {
+  @apply p-20;
+  background-image: url("/static/img/watercolour.png");
+  background-size: 100% 100%;
+}
+
+.scribble-border {
+  background-image: url("/static/img/Box.svg");
+  background-size: 100% 100%;
+}
+
 /* Syntax Highlighting*/
 body :not(pre) > code[class*="language-"],
 body pre[class*="language-"] {
