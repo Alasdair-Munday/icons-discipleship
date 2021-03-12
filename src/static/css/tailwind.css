@@ -33,7 +33,7 @@ h1,h2,h3, .scribble {
 
 .watercolour {
   background-image: url("/static/img/watercolour.png");
-  background-size: 120% 120%;
+  background-size: 110% 120%;
   background-position: center;
 }
 
