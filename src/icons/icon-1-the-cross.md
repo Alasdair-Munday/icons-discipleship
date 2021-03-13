@@ -47,44 +47,18 @@ questions:
   - What do I need to give up to follow Jesus?
   - What do I need to take hold of?
 ---
-Jesus is the heart of discipleship. 
+Jesus is the heart of discipleship.
 
-He is our Saviour, Teacher, Healer and more. 
+God with us - loving, teaching, demonstrating and calling us into His Kingdom.
 
-Jesus is Lord.
+The cross is an end and a beginning.
 
-And He extends an invitation to all of us to come to Him and live in His Kingdom.
+The end of sin for us - its power is broken. The end of shame - it is washed away. It is death’s end - our death Jesus died. And it is the end of Satan’s rule - he has no right to control us.
 
-When we look on the cross we are reminded of all the wonderful works of Jesus but above all else it speaks to us of HIs death and resurrection - the greatest events in history.
+It’s also a beginning, the doorway to resurrection and the ascension of our King Jesus.
 
-And so it is at the cross that our journey of discipleship must begin, and it is to the cross that we must continually return. We see the cross as an end and a beginning. 
+To follow Christ is the death of our old life and the beginning of something new. We let go of what we used to cling to and take hold of the new Kingdom life that is gifted to us.
 
-It is the end of sin for us - its power is broken. 
+It is a life of love, a life of freedom but also a life of wonderful obedience and transformation.
 
-The end of shame - it is washed away. 
-
-It is death’s end - our death Jesus died. 
-
-And it is the end of Satan’s rule - he has no right to control us. 
-
-But it’s also a beginning. It is the doorway to resurrection, the ascension and the launch of His Heaven on earth agenda.
-
-The cross speaks, once and for all, of God’s love, victory and commitment to His world. But the cross also speaks of us.
-
-To follow Christ is the death of our old life and the beginning of something completely new. In Christ we are given a life that is truly worth living, but also a Kingdom that is worth giving our lives for. 
-
-We are invited to let go of all we cling to and take hold of the new Kingdom life that is gifted to us. 
-
-It is a life of love, a life of freedom but also a life of obedience and transformation.
-
-It is a life lived in response to God’s call. 
-
-The cross reminds us of the costly way in which God has loved the world and the cost of discipleship.
-
-Discipleship is about the cross.
-
-But what do you see as you look at this image? 
-
-As you talk with Jesus what is He teaching you? 
-
-Are there particular Bible verses that you find helpful in the light of this image, or is there a part of the scriptures that further illuminates this icon?
+**Discipleship is about the cross.**
