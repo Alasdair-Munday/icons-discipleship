@@ -35,7 +35,7 @@ h1, h2, h3 {
   @apply uppercase
 }
 
-h1,h2,h3, .scribble {
+h1,h2,h3, strong, .scribble {
   font-family: 'SketchBlockW03-Bold', fallback, sans-serif;
 }
 
