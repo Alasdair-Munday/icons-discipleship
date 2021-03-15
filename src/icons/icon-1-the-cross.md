@@ -81,7 +81,7 @@ Jesus is the heart of discipleship. 
 
  The cross reminds us of the costly way in which God has loved the world and the cost of discipleship.
 
- Discipleship is about the cross.
+ **Discipleship is about the cross.**
 
  But what do you see as you look at this image? 
 
