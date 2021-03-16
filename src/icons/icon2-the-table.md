@@ -1,7 +1,7 @@
 ---
 title: The Table
 image: /static/img/Table1.svg
-description: The table is a thing
+description: The table is a thing with unpublished changes
 ---
 Jesus was regularly found ‘at table’ with His friends. Eating and drinking, listening and loving sinners.
 
