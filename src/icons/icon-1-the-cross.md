@@ -36,8 +36,7 @@ passages:
   - reference: Revelation 5.12
     text: Worthy is the Lamb who was slain, to receive power and wealth and wisdom
       and might and honour and glory and blessing!
-practices:
-  - Silence and Solitude
+practices: []
 questions:
   - "Do I know that I‘m deeply, truly loved by God? "
   - Am I “always giving thanks to the Father” through Jesus Christ?
