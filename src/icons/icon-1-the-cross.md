@@ -37,10 +37,7 @@ passages:
     text: Worthy is the Lamb who was slain, to receive power and wealth and wisdom
       and might and honour and glory and blessing!
 practices:
-  - Repentance and faith
-  - Baptism and the sign of the cross
-  - Worship and thanks
-  - Daily surrender and trust
+  - Silence and Solitude
 questions:
   - "Do I know that I‘m deeply, truly loved by God? "
   - Am I “always giving thanks to the Father” through Jesus Christ?
