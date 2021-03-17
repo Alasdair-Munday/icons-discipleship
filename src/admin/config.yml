@@ -66,6 +66,11 @@ collections:
     editor:
       preview: false
     files:
+      - label: "Icon Settings"
+        name: icon_settings
+        file: src/_data/iconSettings.yaml
+        fields:
+          - { label: "Questions Introduction", name: "qintro", widget: "text" }
       - label: "Navigation"
         name: "items"
         file: "src/_data/navigation.yaml"

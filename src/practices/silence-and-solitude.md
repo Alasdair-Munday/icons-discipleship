@@ -4,4 +4,4 @@ image: https://images.squarespace-cdn.com/content/v1/5852ec829f7456cfcc0e1c5a/14
 ---
 [](https://practicingtheway.org/practices/silence-solitude)[Practicing the way](https://practicingtheway.org/practices/silence-solitude) has some helpful content
 
-![](https://images.squarespace-cdn.com/content/v1/5852ec829f7456cfcc0e1c5a/1482266461915-HRWL3RGGX7W4EDH94RIV/ke17ZwdGBToddI8pDm48kMXRibDYMhUiookWqwUxEZ97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0luUmcNM2NMBIHLdYyXL-Jww_XBra4mrrAHD6FMA3bNKOBm5vyMDUBjVQdcIrt03OQ/IMG_3428.jpg?format=2500w)
+![](https://images.squarespace-cdn.com/content/v1/5852ec829f7456cfcc0e1c5a/1482266461915-HRWL3RGGX7W4EDH94RIV/ke17ZwdGBToddI8pDm48kMXRibDYMhUiookWqwUxEZ97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0luUmcNM2NMBIHLdYyXL-Jww_XBra4mrrAHD6FMA3bNKOBm5vyMDUBjVQdcIrt03OQ/IMG_3428.jpg?format=2500w "Silence")
