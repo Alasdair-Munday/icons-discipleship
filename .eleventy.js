@@ -4,6 +4,9 @@ const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const htmlmin = require("html-minifier");
 const pluginPWA = require("eleventy-plugin-pwa");
 const filters = require('./utils/filters');
+const markdown = require("markdown-it")({
+  html: true
+});
 
 module.exports = function (eleventyConfig) {
   // Disable automatic use of your .gitignore
@@ -22,6 +25,11 @@ module.exports = function (eleventyConfig) {
       "dd LLL yyyy"
     );
   });
+
+  eleventyConfig.addNunjucksShortcode(
+    "markdown",
+    content => `<div class="md-block">${markdown.render(content)}</div>`
+  );
 
   // Syntax Highlighting for Code blocks
   eleventyConfig.addPlugin(syntaxHighlight);

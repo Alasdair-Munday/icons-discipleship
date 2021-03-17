@@ -61,6 +61,27 @@ collections:
       - { label: "Image", name: "image", widget: "image" }
       - { label: "Body", name: "body", widget: "markdown" }
 
+  - label: "Worksheets"
+    name: "worksheets"
+    folder: "src/worksheets"
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Image", name: "image", widget: "image" }
+      - { label: "Description", name: "description", widget: "markdown" }
+      - label: "Icons"
+        name: "icons"
+        widget: "object"
+        fields: 
+          - { label: "Cross", name: "cross", widget: markdown }
+          - { label: "Fire", name: "fire", widget: markdown }
+          - { label: "Seeds", name: "seeds", widget: markdown }
+          - { label: "Table", name: "table", widget: markdown }
+          - { label: "Vine", name: "vine", widget: markdown }
+      - { label: "Summary", name: "summary", required: false, widget: "markdown" }
+
   - label: "Settings"
     name: "settings"
     editor:
