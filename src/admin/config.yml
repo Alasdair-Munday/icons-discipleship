@@ -30,25 +30,20 @@ collections:
         fields:
           - {label: Reference, name: reference, widget: string}
           - {label: Text, name: text, widget: text}
-      - label: "Practices"
-        name: "practices"
+      - label: "Questions"
+        name: "questions"
         widget: "list"
-        summary: '{{fields.practice}}'
-        fields: 
+        summary: '{{fields.question}}'
+        fields:
+          - {label: Question, name: question, widget: string}
           - {label: Practice,
+            required: false,
             name: practice,
             widget: relation,
             collection: practices,
             search_fields: [title],
             display_fields: ["title"],
             value_field: "{{slug}}" }
-          - {label: description, required: false, name: text, widget: string}
-            
-      - label: "Questions"
-        name: "questions"
-        widget: "list"
-        summary: '{{fields.question}}'
-        field: {label: Question, name: question, widget: string}
 
   - label: "Practices"
     name: "practices"

@@ -37,34 +37,34 @@ passages:
       doing, but encouraging one another – and all the more as you see the Day
       approaching.”
 questions:
-  - Down through the years Christians have kept in the habit of regularly
-    sharing in the Eucharist together - when was the last time you celebrated
-    Communion?
-  - Hospitality is at the heart of the Kingdom of God - welcoming new and old
-    friends to share food, friendship and love - are you using your home or the
-    means available to you to practice hospitality (remembering that hospitality
-    is best when it’s simple and not ‘fancy’)? Are you comfortable receiving
-    hospitality?
-  - God often blesses us through others - how is He doing that at the moment?
-  - Being aware of the impact we have upon others is important - why not invite
-    a trusted friend to help you see both the good and bad impact that you can
-    have on others?
-  - At the table we are invited to listen to God as well as each other - what
-    are you learning from those around you at the moment?
-  - The table is a place for celebration and party - Jesus was often found at
-    parties! When was the last time you gathered people together to celebrate?
-  - Are you listening to others well?
-  - "Do you know what it is like to be in relationship with you? "
-  - Are there any broken relationships that the table reminds you you need to go
-    and fix - go and be reconciled. Do you need to give or receive forgiveness?
-  - As you look around your Church family, your wider community are there
-    opportunities for you to share practical care?
-  - Following Jesus is a team sport where we share both the highs and the lows
-    of life - are you sharing your life with others and are there people in your
-    life with whom you are appropriately vulnerable?
-  - Do you need help? Maybe what the next step for you is to go and ask for help
-    from your community?
-  - How are you going to practice the table?
+  - question: Down through the years Christians have kept in the habit of regularly
+      sharing in the Eucharist together - when was the last time you celebrated
+      Communion?
+  - question: Hospitality is at the heart of the Kingdom of God - welcoming new and old
+      friends to share food, friendship and love - are you using your home or the
+      means available to you to practice hospitality (remembering that hospitality
+      is best when it’s simple and not ‘fancy’)? Are you comfortable receiving
+      hospitality?
+  - question: God often blesses us through others - how is He doing that at the moment?
+  - question: Being aware of the impact we have upon others is important - why not invite
+      a trusted friend to help you see both the good and bad impact that you can
+      have on others?
+  - question: At the table we are invited to listen to God as well as each other - what
+      are you learning from those around you at the moment?
+  - question: The table is a place for celebration and party - Jesus was often found at
+      parties! When was the last time you gathered people together to celebrate?
+  - question: Are you listening to others well?
+  - question: "Do you know what it is like to be in relationship with you? "
+  - question: Are there any broken relationships that the table reminds you you need to go
+      and fix - go and be reconciled. Do you need to give or receive forgiveness?
+  - question: As you look around your Church family, your wider community are there
+      opportunities for you to share practical care?
+  - question: Following Jesus is a team sport where we share both the highs and the lows
+      of life - are you sharing your life with others and are there people in your
+      life with whom you are appropriately vulnerable?
+  - question: Do you need help? Maybe what the next step for you is to go and ask for help
+      from your community?
+  - question: How are you going to practice the table?
 ---
 Jesus was regularly found ‘at table’ with His friends. Eating and drinking, listening and loving sinners.
 
