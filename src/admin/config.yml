@@ -16,13 +16,12 @@ collections:
   - label: "Icons"
     name: "icons"
     folder: "src/icons"
-    create: true
+    create: false
     editor:
       preview: false
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Image", name: "image", widget: "image" }
-      - { label: "Description", name: "description", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
       - label: "Bible Passages"
         name: "passages"
@@ -35,12 +34,32 @@ collections:
         name: "practices"
         widget: "list"
         summary: '{{fields.practice}}'
-        field: {label: Practice, name: practice, widget: string}
+        fields: 
+          - {label: Practice,
+            name: practice,
+            widget: relation,
+            collection: practices,
+            search_fields: [title],
+            display_fields: ["title"],
+            value_field: "{{slug}}" }
+          - {label: description, required: false, name: text, widget: string}
+            
       - label: "Questions"
         name: "questions"
         widget: "list"
         summary: '{{fields.question}}'
         field: {label: Question, name: question, widget: string}
+
+  - label: "Practices"
+    name: "practices"
+    folder: "src/practices"
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Image", name: "image", widget: "image" }
+      - { label: "Body", name: "body", widget: "markdown" }
 
   - label: "Settings"
     name: "settings"
@@ -59,23 +78,9 @@ collections:
             fields:
               - { label: Title, name: text, widget: string }
               - { label: URL, name: url, widget: string }
-      - label: "Quick Links"
-        name: "links"
-        file: "src/_data/quicklinks.yaml"
-        fields:
-          - label: Nav Items
-            name: links
-            widget: list
-            collapsed: false
-            fields:
-              - { label: Title, name: title, widget: string }
-              - { label: URL, name: url, widget: string }
-              - { label: Description, name: desc, widget: string }
-              - { label: Image, name: image, widget: image }
       - label: "Meta Settings"
         name: "settings"
         file: "src/_data/settings.yaml"
         fields:
           - { label: Name, name: name, widget: string }
-          - { label: Author, name: author, widget: string }
           - { label: URL, name: url, widget: string }
