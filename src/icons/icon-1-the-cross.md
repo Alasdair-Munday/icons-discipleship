@@ -38,6 +38,10 @@ passages:
       and might and honour and glory and blessing!
 practices:
   - practice: silence-and-solitude
+  - Baptism
+  - Scripture reading
+  - Praise and Worship
+  - Surrender
 questions:
   - The cross is at the heart of all that Jesus is about - but do you know and
     have you read any of the accounts of His life? Are you familiar with the
