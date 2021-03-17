@@ -1,0 +1,11 @@
+---
+layout: default
+---
+<div class="container prose max-w-4xl px-6">
+  <h3>Worksheets (work in progress)</h3>
+  <ol>
+  {% for worksheet in collections.worksheets %}
+    <li><a href="{{worksheet.url}}">{{worksheet.data.title}}</a></li>
+  {% endfor %}
+  </ol>
+</div>
