@@ -1,4 +1,5 @@
 # The 5 Icons of Discipleship - a tool under development from St Matts Leeds
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cbb6070e-5e4d-4d8b-afcb-9c2b0291a488/deploy-status)](https://app.netlify.com/sites/icons-discipleship/deploys)
 ## Getting Started
 ### 1\. Clone this Repository
 
