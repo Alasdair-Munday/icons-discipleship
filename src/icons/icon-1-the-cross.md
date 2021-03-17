@@ -39,10 +39,36 @@ passages:
 practices:
   - practice: silence-and-solitude
 questions:
-  - "Do I know that I‘m deeply, truly loved by God? "
-  - Am I “always giving thanks to the Father” through Jesus Christ?
-  - What do I need to give up to follow Jesus?
-  - What do I need to take hold of?
+  - The cross is at the heart of all that Jesus is about - but do you know and
+    have you read any of the accounts of His life? Are you familiar with the
+    details of his life, teaching, healings, death, resurrection and ascension?
+    Why not commit to read one of the Gospel accounts - a chapter a day - for
+    the next few weeks?
+  - The Cross invites a response of faith, trust and allegiance to Jesus as our
+    King - have you made a decision to commit your life to Christ?  If there are
+    any questions that might prevent you from taking this step of faith why not
+    speak to someone who could help.
+  - It may be that now is the right time for you to mark your faith publicly by
+    being baptised? Before you enter the water you will be sealed with the sign
+    of the cross!
+  - The Cross invites us to respond in awe, wonder and worship - how is your
+    life punctuated like this? Are you living a life of gratitude and praise?
+  - Following Jesus is a life of daily repentance - what do you need to give up
+    to follow Jesus? What do you need to take hold of - maybe a promise of His -
+    today?
+  - We live in a world that is constantly shaping us - you could perhaps say the
+    world is discipling us - what is shaping you? What often takes the place of
+    Jesus in your life?
+  - The Cross reminds us that each day is to be marked by daily surrender and
+    the entrusting of our lives into His love scarred hands - what do you need
+    to trust Jesus with today?
+  - As you gaze upon the cross it’s important to ask - do you know that you are
+    deeply and truly loved by God? Is there anything getting in the way of that?
+  - What is God’s call on your life - do you have a particular vocation that the
+    Lord is inviting you to explore?
+  - "What defines you? For the disciple of Christ our identity is shaped by the
+    cross - “for me to live is Christ, to die is gain”. "
+  - How are you going to practice the cross?
 ---
 Jesus is the heart of discipleship. 
 
