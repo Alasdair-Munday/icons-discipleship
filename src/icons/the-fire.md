@@ -2,6 +2,42 @@
 title: The Fire
 image: /static/img/Fire.svg
 description: Fire is hot
+passages:
+  - reference: Acts 2.3
+    text: “They saw what seemed to be tongues of fire that separated and came to
+      rest on each of them”
+  - reference: Ephesians 5.17-19
+    text: >
+      “Don’t fill yourself up with wine. Getting drunk will lead to wild living.
+      Instead, be filled with the Holy Spirit. Speak to one another with psalms,
+      hymns and songs from the Spirit. Sing and make music from your heart to
+      the Lord.”
+  - reference: "Acts 2:1-4 "
+    text: When the day of Pentecost came, they were all together in one place.
+      Suddenly a sound like the blowing of a violent wind came from heaven and
+      filled the whole house where they were sitting. They saw what seemed to be
+      tongues of fire that separated and came to rest on each of them. All of
+      them were filled with the Holy Spirit and began to speak in other tongues
+      as the Spirit enabled them.
+  - reference: "Jeremiah 20.9 "
+    text: “there is in my heart as it were a burning fire shut up in my bones, and I
+      am weary with holding it in, and I cannot.”
+  - reference: Gal 5:22-25
+    text: the fruit of the Spirit is love, joy, peace, patience, kindness, goodness,
+      faithfulness, gentleness and self-control. Against such things there is no
+      law. Those who belong to Christ Jesus have crucified the flesh with its
+      passions and desires. Since we live by the Spirit, let us keep in step
+      with the Spirit.
+  - reference: Exodus 13.21
+    text: “…and by night in a pillar of fire to give them light, that they might
+      travel by day and by night.”
+  - reference: 1 Cor 12.7
+    text: “Now to each one the manifestation of the Spirit is given for the common
+      good.”
+  - reference: 2 Tim 1:6
+    text: >
+      For this reason I remind you to fan into flame the gift of God, which is
+      in you through the laying on of my hands.
 questions:
   - The scriptures teach us that we are to keep on being filled with the Holy
     Spirit (Ephesians 5.18) - are you regularly asking for the Holy Spirit to
