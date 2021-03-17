@@ -33,14 +33,15 @@ collections:
       - label: "Practices"
         name: "practices"
         widget: "list"
-        summary: '{{fields.text}}'
+        summary: '{{fields.practice}}'
         fields: 
           - {label: Practice,
             name: practice,
             widget: relation,
             collection: practices,
             search_fields: [title],
-            value_field: title }
+            display_fields: ["title"],
+            value_field: "{{slug}}" }
           - {label: description, required: false, name: text, widget: string}
             
       - label: "Questions"

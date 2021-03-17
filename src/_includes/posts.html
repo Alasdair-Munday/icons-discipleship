@@ -20,7 +20,11 @@ prism: true
         <h3><img src="/static/img/Arrow3.svg" class="inline-block w-10 my-0"/> Practices</h3>
         <ul>
             {% for item in practices %}
-            <li>{{item}}</li>
+                {% for practice in collections.practices %}
+                    {% if practice.fileSlug == item.practice %}
+                        <li><a href="{{practice.url}}">{{practice.data.title}}</a></li>
+                    {% endif %}
+                {% endfor %}
             {% endfor %}
         </ul>
         <h3><img src="/static/img/Speech2.svg" class="inline-block w-10 my-0"/> Questions</h3>
