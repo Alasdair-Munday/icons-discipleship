@@ -3,6 +3,7 @@ const { DateTime } = require("luxon");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const htmlmin = require("html-minifier");
 const pluginPWA = require("eleventy-plugin-pwa");
+const filters = require('./utils/filters');
 
 module.exports = function (eleventyConfig) {
   // Disable automatic use of your .gitignore
@@ -10,6 +11,10 @@ module.exports = function (eleventyConfig) {
 
   // Merge data instead of overriding
   eleventyConfig.setDataDeepMerge(true);
+
+  Object.keys(filters).forEach(
+    filterName => eleventyConfig.addFilter(filterName, filters[filterName])
+  );
 
   // human readable date
   eleventyConfig.addFilter("readableDate", (dateObj) => {
