@@ -28,28 +28,28 @@ passages:
       blessed the Sabbath day and made it holy.
     reference: "Exodus 20:8-11 "
 questions:
-  - When you reflect upon your life at the moment are you living within a
-    healthy rhythm of work, rest and play?
-  - Are you caring for yourself physically, emotionally, spiritually and
-    relationally (eating, sleeping, exercise etc)?
-  - Does prayer, regular retreating from the busyness of life and scripture
-    reading hold an important enough place in your day to day life? How and when
-    do you create space to pray? How and when do you sit down to read the Bible?
-  - What was the last thing that God spoke to you through the Bible?
-  - Do you regularly have a sabbath - a day of rest and more time abiding in
-    God’s love?
-  - As the vine invites us to let God cut from our lives much of the clutter -
-    is there a way in which you could simplify your life?
-  - One of the many habits that Jesus assumes we will practice is fasting -
-    creating space in our lives for feasting on God - do you regularly fast?
-  - Are you too busy - is time a blessing or a curse?
-  - Is there anything at the moment that is preventing you from living closely
-    and intimately with God?
-  - "Down through the years Christian’s have often responded to the presence of
-    God in their lives by creating a ‘rule of life’ - which is simply a pattern
-    of practices and commitments that help us abide. Do you have a rhythm,
-    pattern or rule for your life? "
-  - How are you going to practice the vine?
+  - question: When you reflect upon your life at the moment are you living within a
+      healthy rhythm of work, rest and play?
+  - question: Are you caring for yourself physically, emotionally, spiritually and
+      relationally (eating, sleeping, exercise etc)?
+  - question: Does prayer, regular retreating from the busyness of life and scripture
+      reading hold an important enough place in your day to day life? How and when
+      do you create space to pray? How and when do you sit down to read the Bible?
+  - question: What was the last thing that God spoke to you through the Bible?
+  - question: Do you regularly have a sabbath - a day of rest and more time abiding in
+      God’s love?
+  - question: As the vine invites us to let God cut from our lives much of the clutter -
+      is there a way in which you could simplify your life?
+  - question: One of the many habits that Jesus assumes we will practice is fasting -
+      creating space in our lives for feasting on God - do you regularly fast?
+  - question: Are you too busy - is time a blessing or a curse?
+  - question: Is there anything at the moment that is preventing you from living closely
+      and intimately with God?
+  - question: "Down through the years Christian’s have often responded to the presence of
+      God in their lives by creating a ‘rule of life’ - which is simply a pattern
+      of practices and commitments that help us abide. Do you have a rhythm,
+      pattern or rule for your life? "
+  - question: How are you going to practice the vine?
 ---
 Here we have one of the  most powerful images that Jesus left us with.
 

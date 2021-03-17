@@ -35,30 +35,32 @@ passages:
       do good to all people, especially to those who belong to the family of
       believers.
 questions:
-  - As you reflect upon the seeds - what is God sowing in your life at the
-    moment and are you letting it bear fruit?
-  - Everyday is a new day with a pocket load of seeds! Why not ask every morning
-    - Who is God leading me to so that I can share God’s love (Luke 10:6)?
-  - Are there people of peace - people who are warm towards you - who God has
-    been working within in readiness to hear His good news?
-  - When you listen to the voice of the Holy Spirit are there particular tasks
-    or things that need to be shared with people around you?
-  - God cares deeply for the whole of His creation - the marks of mission are a
-    helpful reminder of the scope of His Kingdom and concern - which of the 5 do
-    you most need to practice at the moment? Is there an opportunity to respond
-    to one of the 5 now?
-  - These marks of mission point out to us the impact that we often have on the
-    world around us - over consuming and abusing creation. It may be that
-    simplifying our lives would be a good response to this?
-  - When you watch the news - is there a need or an issue that the Lord is
-    asking you to commit to intercede for?
-  - When you look at the resources that you have available to you - are you
-    living generously? Are you blessing the poor?
-  - When it comes to living as a missionary - do you have the courage and hope
-    that you need - or do you need to pray for more?
-  - Where is God calling you? Does the Lord have a particular people group or
-    place that he is wanting you to go and live in?
-  - "  How are you going to practice the seeds?"
+  - question: As you reflect upon the seeds - what is God sowing in your life at the
+      moment and are you letting it bear fruit?
+    practice: ""
+  - question: Everyday is a new day with a pocket load of seeds! Why not ask every
+      morning - Who is God leading me to so that I can share God’s love (Luke
+      10:6)?
+  - question: Are there people of peace - people who are warm towards you - who God
+      has been working within in readiness to hear His good news?
+  - question: When you listen to the voice of the Holy Spirit are there particular
+      tasks or things that need to be shared with people around you?
+  - question: God cares deeply for the whole of His creation - the marks of mission
+      are a helpful reminder of the scope of His Kingdom and concern - which of
+      the 5 do you most need to practice at the moment? Is there an opportunity
+      to respond to one of the 5 now?
+  - question: These marks of mission point out to us the impact that we often have
+      on the world around us - over consuming and abusing creation. It may be
+      that simplifying our lives would be a good response to this?
+  - question: When you watch the news - is there a need or an issue that the Lord is
+      asking you to commit to intercede for?
+  - question: When you look at the resources that you have available to you - are
+      you living generously? Are you blessing the poor?
+  - question: When it comes to living as a missionary - do you have the courage and
+      hope that you need - or do you need to pray for more?
+  - question: Where is God calling you? Does the Lord have a particular people group
+      or place that he is wanting you to go and live in?
+  - question: How are you going to practice the seeds?
 ---
 The Kingdom of God is like a seed - small, seemingly insignificant, yet growing.
 
