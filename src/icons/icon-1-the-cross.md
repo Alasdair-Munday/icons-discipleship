@@ -70,17 +70,13 @@ questions:
     cross - “for me to live is Christ, to die is gain”. "
   - How are you going to practice the cross?
 ---
-Jesus is the heart of discipleship. 
+Jesus must be at the heart of all discipleship. 
 
- He is our Saviour, Teacher, Healer and more. 
+His teachings, His miracles and healings, His wonderful acts of love, but first and foremost His cross.
 
- Jesus is Lord.
+When we look at the cross we are reminded of all that Jesus has done and the call on our lives.
 
- And He extends an invitation to all of us to come to Him and live in His Kingdom.
-
- When we look on the cross we are reminded of all the wonderful works of Jesus but above all else it speaks to us of HIs death and resurrection - the greatest events in history.
-
- And so it is at the cross that our journey of discipleship must begin, and it is to the cross that we must continually return. We see the cross as an end and a beginning. 
+We see the cross as an end and a beginning. 
 
  It is the end of sin for us - its power is broken. 
 
