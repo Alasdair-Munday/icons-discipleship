@@ -89,8 +89,14 @@ collections:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
       - label: "Homepage"
-        name: "home page"
+        name: "homepage"
         file: src/home.md
+        fields:
+          - { label: "Before Icons", name: "body", widget: "markdown" }
+          - { label: "After Icons", name: "after", widget: "markdown" }
+      - label: "Icons"
+        name: "icons_index"
+        file: src/icons.md
         fields:
           - { label: "Before Icons", name: "body", widget: "markdown" }
           - { label: "After Icons", name: "after", widget: "markdown" }
