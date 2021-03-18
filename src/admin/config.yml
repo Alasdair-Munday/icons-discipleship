@@ -94,6 +94,12 @@ collections:
         fields:
           - { label: "Before Icons", name: "body", widget: "markdown" }
           - { label: "After Icons", name: "after", widget: "markdown" }
+      - label: "Practices"
+        name: "practices"
+        file: src/practices.md
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
       - label: "Icons"
         name: "icons_index"
         file: src/icons.md
