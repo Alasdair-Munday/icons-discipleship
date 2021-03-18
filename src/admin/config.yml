@@ -88,7 +88,12 @@ collections:
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
-
+      - label: "Homepage"
+        name: "home page"
+        file: src/home.md
+        fields:
+          - { label: "Before Icons", name: "body", widget: "markdown" }
+          - { label: "After Icons", name: "after", widget: "markdown" }
   - label: "Settings"
     name: "settings"
     editor:
