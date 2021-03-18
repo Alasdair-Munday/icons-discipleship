@@ -3,7 +3,7 @@
         <!--Logo etc-->
         <a href="/" class="flex flex-row items-center font-bold text-lg font-mono">
             <img src="/static/img/discipleship_logo_no_background.png" class="w-20">
-            <span class="scribble text-xl sm:text-4xl">Icons of Discipleship</span>
+            <span class="scribble text-xl sm:text-3xl">5 Icons of Discipleship</span>
         </a>
 
         <!--Toggle button (hidden on large screens)-->
@@ -29,6 +29,14 @@
                             </a>
                         </li>
                     {% endfor %}
+                        <li class="nav__item lg:flex">
+                            <a @click="isOpen = false" class="flex lg:flex-1 items-center lg:justify-end justify-center lg:flex-col text-ml text-gray-500 no-underline hover:text-gray-200 px-3 py-2" href="/worksheets">
+                                <div class="flex lg:flex-1 justify-center">
+                                    <img src="/static/img/Speech2.svg" class="w-10">
+                                </div>
+                                <span class="text-xs lg:ml-0 ml-2 scribble">Worksheets</span>
+                            </a>
+                        </li>
                 </ul>
 
             {% endif %}
