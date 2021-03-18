@@ -77,6 +77,18 @@ collections:
           - { label: "Vine", name: "vine", widget: markdown }
       - { label: "Summary", name: "summary", required: false, widget: "markdown" }
 
+  - label: "Main pages"
+    name: "mainpages"
+    editor:
+      preview: false
+    files:
+      - label: "Worksheets"
+        name: "worksheets"
+        file: src/worksheets.md
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+
   - label: "Settings"
     name: "settings"
     editor:
