@@ -106,6 +106,18 @@ collections:
         fields:
           - { label: "Before Icons", name: "body", widget: "markdown" }
           - { label: "After Icons", name: "after", widget: "markdown" }
+      - label: "Discipleship"
+        name: "discipleship"
+        file: src/discipleship.md
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Rule Of Life"
+        name: "rule_of_life"
+        file: src/rule_of_life.md
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
   - label: "Settings"
     name: "settings"
     editor:
