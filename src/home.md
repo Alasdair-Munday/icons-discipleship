@@ -1,5 +1,4 @@
 ---
-layout: worksheet
 title: Icons of discipleship
 path: home
 tags: mainpages
