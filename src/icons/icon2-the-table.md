@@ -54,7 +54,9 @@ questions:
   - question: The table is a place for celebration and party - Jesus was often found
       at parties! When was the last time you gathered people together to
       celebrate?
-  - question: Are you listening to others well?
+  - question: Are you listening to others well? Why not gather a few of you together
+      to take it in turns to share your story and others listen? You may want to
+      prepare for this by creating a timeline of the key events of your life?
   - question: "Do you know what it is like to be in relationship with you? "
   - question: Are there any broken relationships that the table reminds you you need
       to go and fix - go and be reconciled. Do you need to give or receive
