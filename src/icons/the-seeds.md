@@ -68,7 +68,7 @@ questions:
 
 The Kingdom of God is like a seed - small, seemingly insignificant, yet it is God’s rule and reign growing. Much of this growth happens unseen, in secret, but we can be assured that God’s Kingdom is unstoppable. 
 
-God is the sower - throwing out His word in and around us. As disciples our task is give that seed space to grow - be good soil -  and to nurture that seed around us.
+God is the sower - scattering Kingdom truth in, around and through us. As disciples our task is give that seed space to grow - be good soil -  and to nurture that seed around us.
 
 But in other ways we are the sower - joining  in with what our Father in Heaven is up to. His business is the resurrection business, and we are invited to invest with our whole lives.
 
