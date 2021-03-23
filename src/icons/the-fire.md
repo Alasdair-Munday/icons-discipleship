@@ -97,3 +97,5 @@ Following Jesus is life ‘in the Spirit’ - life ‘under the influence’ of 
 But what do you see as you look at this image? 
 
 As you talk with Jesus what is He teaching you?
+
+Are there particular Bible verses that you find helpful in the light of this image, or is there a part of the scriptures that further illuminates this icon?
