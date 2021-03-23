@@ -62,19 +62,17 @@ questions:
       or place that he is wanting you to go and live in?
   - question: How are you going to practice the seeds?
 ---
-The Kingdom of God is like a seed - small, seemingly insignificant, yet growing.
+**The Seeds: Missional Action**
 
- Much of this growth happens unseen, in secret, but we can be assured that God’s Kingdom is unstoppable.
+**Jesus declared - the Kingdom of God is at hand. He is making all things new and so we join in - loving, serving, sharing, giving etc.**
 
- So the seeds speak to us about the way God is at work in the world, and an invitation to be part of it. 
+The Kingdom of God is like a seed - small, seemingly insignificant, yet it is God’s rule and reign growing. Much of this growth happens unseen, in secret, but we can be assured that God’s Kingdom is unstoppable. 
 
- God is the sower - implanting His word in and around us. We need to make sure we are the type of soil that allows those seeds to grow.
+God is the sower - throwing out His word in and around us. As disciples our task is give that seed space to grow - be good soil -  and to nurture that seed around us.
 
- But we are also partners - fellow missionaries and sowers with God. Joining Him in that wonderfully organic process of giving away what He has given us and watching things grow or not! Then giving again… and again… and again.
+But in other ways we are the sower - joining  in with what our Father in Heaven is up to. His business is the resurrection business, and we are invited to invest with our whole lives.
 
- Generous sowers
-
- The seeds speak of the 5 marks of mission:
+To grasp the scale of this generous Kingdom it can be helpful to refer to the 5 marks of mission that invite our participation:
 
 * To proclaim the Good News of the Kingdom
 * To teach, baptise and nurture believers
@@ -82,12 +80,12 @@ The Kingdom of God is like a seed - small, seemingly insignificant, yet growing.
 * To transform unjust structures of society, to challenge violence of every kind and pursue peace and reconciliation
 * To strive to safeguard the integrity of creation, and sustain and renew the life of the earth
 
-But  seeds also remind us that we are in a spiritual battle. Satan and his forces are at work stealing, spoiling and destroying wherever possible. As disciples we need to stay awake to the realities of this battle - we need to live life remembering that we are at war.
+But we also need to be wise. In the parable of the sower some of the seeds that are scattered are snatched away - and this is a reminder that we are in a spiritual battle. Satan and his forces are at work stealing, spoiling and destroying. 
 
- **Discipleship is about the seeds.**
+**Discipleship is about the seeds.**
 
- But what do you see as you look at this image? 
+But what do you see as you look at this image? 
 
- As you talk with Jesus what is He teaching you? 
+As you talk with Jesus what is He teaching you? 
 
- Are there particular Bible verses that you find helpful in the light of this image, or is there a part of the scriptures that further illuminates this icon?
+Are there particular Bible verses that you find helpful in the light of this image, or is there a part of the scriptures that further illuminates this icon?
