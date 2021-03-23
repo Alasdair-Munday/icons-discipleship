@@ -39,71 +39,53 @@ passages:
 practices:
   - practice: silence-and-solitude
 questions:
-  - question: The cross is at the heart of all that Jesus is about - but do you know and
-      have you read any of the accounts of His life? Are you familiar with the
-      details of his life, teaching, healings, death, resurrection and ascension?
-      Why not commit to read one of the Gospel accounts - a chapter a day - for
-      the next few weeks?
-  - question: The Cross invites a response of faith, trust and allegiance to Jesus as our
-      King - have you made a decision to commit your life to Christ?  If there are
-      any questions that might prevent you from taking this step of faith why not
-      speak to someone who could help.
-  - question: It may be that now is the right time for you to mark your faith publicly by
-      being baptised? Before you enter the water you will be sealed with the sign
-      of the cross!
-  - question: The Cross invites us to respond in awe, wonder and worship - how is your
-      life punctuated like this? Are you living a life of gratitude and praise?
-  - question: Following Jesus is a life of daily repentance - what do you need to give up
-      to follow Jesus? What do you need to take hold of - maybe a promise of His -
-      today?
-  - question: We live in a world that is constantly shaping us - you could perhaps say the
-      world is discipling us - what is shaping you? What often takes the place of
-      Jesus in your life?
-  - question: The Cross reminds us that each day is to be marked by daily surrender and
-      the entrusting of our lives into His love scarred hands - what do you need
-      to trust Jesus with today?
-  - question: As you gaze upon the cross it’s important to ask - do you know that you are
-      deeply and truly loved by God? Is there anything getting in the way of that?
-  - question: What is God’s call on your life - do you have a particular vocation that the
-      Lord is inviting you to explore?
-  - question: "What defines you? For the disciple of Christ our identity is shaped by the
-      cross - “for me to live is Christ, to die is gain”. "
+  - question: The cross is at the heart of all that Jesus is about - but do you know
+      and have you read any of the accounts of His life? Are you familiar with
+      the details of his life, teaching, healings, death, resurrection and
+      ascension? Why not commit to read one of the Gospel accounts - a chapter a
+      day - for the next few weeks?
+  - question: The Cross invites a response of faith, trust and allegiance to Jesus
+      as our King - have you made a decision to commit your life to Christ?  If
+      there are any questions that might prevent you from taking this step of
+      faith why not speak to someone who could help.
+  - question: It may be that now is the right time for you to mark your faith
+      publicly by being baptised? Before you enter the water you will be sealed
+      with the sign of the cross!
+  - question: The Cross invites us to respond in awe, wonder and worship - how is
+      your life punctuated like this? Are you living a life of gratitude and
+      praise?
+  - question: Following Jesus is a life of daily repentance - what do you need to
+      give up to follow Jesus? What do you need to take hold of - maybe a
+      promise of His - today?
+  - question: We live in a world that is constantly shaping us - you could perhaps
+      say the world is discipling us - what is shaping you? What often takes the
+      place of Jesus in your life?
+  - question: The Cross reminds us that each day is to be marked by daily surrender
+      and the entrusting of our lives into His love scarred hands - what do you
+      need to trust Jesus with today?
+  - question: As you gaze upon the cross it’s important to ask - do you know that
+      you are deeply and truly loved by God? Is there anything getting in the
+      way of that?
+  - question: What is God’s call on your life - do you have a particular vocation
+      that the Lord is inviting you to explore?
+  - question: "What defines you? For the disciple of Christ our identity is shaped
+      by the cross - “for me to live is Christ, to die is gain”. "
   - question: How are you going to practice the cross?
 ---
-Jesus must be at the heart of all discipleship. 
+**The Cross: Costly Love**
 
-His teachings, His miracles and healings, His wonderful acts of love, but first and foremost His cross.
+**Discipleship is all about discovering what it means to be loved by God, trusting in all that He has done for us on the cross, and committing to take up our cross and follow Him.**
 
-When we look at the cross we are reminded of all that Jesus has done and the call on our lives.
+In the corner of our Church prayer garden stands a large wooden cross. It’s presence dominates, reminding all who go there to pray, that Jesus is the centre of it all. His teachings, His miracles, His healings, His wonderful acts of love, but first and foremost His cross.
 
-We see the cross as an end and a beginning. 
+To speak of the cross is to quickly realise that words aren’t enough, but being a disciple of Jesus is a life that is lived permanently in its shadow. At the cross the power of sin is broken - we are free. All shame is washed away - we are loved. Death is defeated - He is risen. Satan has lost - he has no rights over us. At the cross we see what God is like and His passion for His creation, His passion for us.
 
- It is the end of sin for us - its power is broken. 
+But the cross also speaks of us. To follow Jesus is the death of our old life and the beginning of something completely new. To follow Jesus costs everything but it is to gain more. It’s a way of living that is marked by joy and peace - it is ‘the easy way’ - but also obedience and change.
 
- The end of shame - it is washed away. 
+The cross reminds us of the costly way in which God has loved the world and the cost of discipleship.
 
- It is death’s end - our death Jesus died. 
+**Discipleship is about the cross.**
 
- And it is the end of Satan’s rule - he has no right to control us. 
+But what do you see as you look at this image? 
 
- But it’s also a beginning. It is the doorway to resurrection, the ascension and the launch of His Heaven on earth agenda.
-
- The cross speaks, once and for all, of God’s love, victory and commitment to His world. But the cross also speaks of us.
-
- To follow Christ is the death of our old life and the beginning of something completely new. In Christ we are given a life that is truly worth living, but also a Kingdom that is worth giving our lives for. 
-
- We are invited to let go of all we cling to and take hold of the new Kingdom life that is gifted to us. 
-
- It is a life of love, a life of freedom but also a life of obedience and transformation.
-
- It is a life lived in response to God’s call. 
-
- The cross reminds us of the costly way in which God has loved the world and the cost of discipleship.
-
- **Discipleship is about the cross.**
-
- But what do you see as you look at this image? 
-
- As you talk with Jesus what is He teaching you? 
-
- Are there particular Bible verses that you find helpful in the light of this image, or is there a part of the scriptures that further illuminates this icon?
+As you talk with Jesus what is He teaching you?
