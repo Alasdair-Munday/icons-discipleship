@@ -2,13 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
-/*Your Custom CSS Goes here*/
 @font-face {
-  font-family: "SketchBlockW03-Bold";
-  src: url("/static/fonts/freeversionSketchBlock-Bold.woff2") format("woff2"),
-  url("/static/fonts/freeversionSketchBlock-Bold.woff") format("woff"),
-  url("/static/fonts/Sketch_Block.ttf") format("truetype");
-} 
+  font-family: 'Garland';
+  src: url('/static/fonts/Garland.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
 
 /* body {
   background-image: url("/static/img/background.png");
@@ -31,12 +31,10 @@ img {
   margin: 0 !important;
 }
 
-h1, h2, h3 {
-  @apply uppercase
-}
-
 h1,h2,h3, strong, .scribble {
-  font-family: 'SketchBlockW03-Bold', fallback, sans-serif;
+  font-family: 'Garland', fallback, sans-serif;
+  font-size-adjust: 0.7;
+  font-weight: normal !important;
 }
 
 .watercolour {
@@ -45,8 +43,33 @@ h1,h2,h3, strong, .scribble {
   background-position: center;
 }
 
+.brush-green {
+  background-image: url("/static/img/Brush_Green.svg");
+  background-size: 100% 100%;
+}
+
+.brush-blue {
+  background-image: url("/static/img/Brush_Blue.svg");
+  background-size: 100% 100%;
+}
+
+.brush-yellow {
+  background-image: url("/static/img/Brush_Yellow.svg");
+  background-size: 100% 100%;
+}
+
+.brush-pink {
+  background-image: url("/static/img/Brush_Pink.svg");
+  background-size: 100% 100%;
+}
+
+.brush-orange {
+  background-image: url("/static/img/Brush_Orange.svg");
+  background-size: 100% 100%;
+}
+
 .scribble-border {
-  background-image: url("/static/img/Box.svg");
+  background-image: url("/static/img/Brush_Orange.svg");
   background-size: 100% 100%;
 }
 

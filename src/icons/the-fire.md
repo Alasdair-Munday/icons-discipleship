@@ -1,6 +1,7 @@
 ---
 title: The Fire
 image: /static/img/Fire.svg
+colour: orange
 description: Fire is hot
 passages:
   - reference: Acts 2.3

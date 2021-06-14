@@ -1,6 +1,7 @@
 ---
 title: The Table
 image: /static/img/Table1.svg
+colour: pink
 description: The table is a thing
 passages:
   - reference: Acts 2.42-47

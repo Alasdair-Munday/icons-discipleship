@@ -1,6 +1,7 @@
 ---
 title: The Seeds
 image: /static/img/Seeds.svg
+colour: yellow
 description: Seeds plant things
 passages:
   - reference: Isaiah 61:1-2 (or 1-3

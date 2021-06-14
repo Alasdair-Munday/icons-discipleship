@@ -1,6 +1,7 @@
 ---
 title: The Vine
 image: /static/img/Vine.svg
+colour: green
 description: where grapes come from
 passages:
   - reference: John 15
