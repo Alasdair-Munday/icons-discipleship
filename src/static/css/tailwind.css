@@ -10,17 +10,22 @@
   font-display: swap;
 }
 
-/* body {
-  background-image: url("/static/img/background.png");
-  background-size: cover;
-} */
+@font-face {
+  font-family: 'Proxima Nova';
+  src: url('/static/fonts/Proxima-Nova-Light.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
 
 h1 {
   @apply tracking-tighter mb-3 text-center sm:text-7xl text-5xl;
 }
 
-h3 {
-  @apply text-2xl font-bold mb-3;
+.proxima-nova {
+  font-family: 'Proxima Nova';
+  font-size-adjust: 1;
 }
 
 img {
@@ -31,10 +36,14 @@ img {
   margin: 0 !important;
 }
 
-h1,h2,h3, strong, .scribble {
+h1,h2,h3, strong {
   font-family: 'Garland', fallback, sans-serif;
-  font-size-adjust: 0.7;
+  font-size-adjust: 0.6;
   font-weight: normal !important;
+}
+.scribble {
+  font-family: 'Garland', fallback, sans-serif;
+  font-size-adjust: 0.8;
 }
 
 .watercolour {

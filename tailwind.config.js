@@ -13,6 +13,9 @@ module.exports = {
     extend: {
       colors: {},
     },
+    fontFamily: {
+      sans: ['"Proxima Nova"', 'ui-sans-serif']
+    },
   },
   variants: {},
   plugins: [require("@tailwindcss/typography")],

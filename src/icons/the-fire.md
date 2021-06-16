@@ -1,5 +1,6 @@
 ---
 title: The Fire
+subtitle: POWERFUL PRESENCE
 image: /static/img/Fire.svg
 colour: orange
 description: Fire is hot

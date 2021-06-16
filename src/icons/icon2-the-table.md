@@ -1,5 +1,6 @@
 ---
 title: The Table
+subtitle: TEAM LIVING
 image: /static/img/Table1.svg
 colour: pink
 description: The table is a thing

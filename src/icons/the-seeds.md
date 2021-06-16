@@ -1,5 +1,6 @@
 ---
 title: The Seeds
+subtitle: MISSIONAL ACTION
 image: /static/img/Seeds.svg
 colour: yellow
 description: Seeds plant things

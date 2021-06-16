@@ -1,5 +1,6 @@
 ---
 title: The Vine
+subtitle: DEEPENING CONNECTION
 image: /static/img/Vine.svg
 colour: green
 description: where grapes come from
