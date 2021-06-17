@@ -7,14 +7,14 @@ prism: true
 </div>
 <div class="container max-w-4xl mt-6  px-6">
     <div class="flex flex-col align-middle brush-{{colour}} justify-center pb-5 mb-5 border-b border-gray-100">
-        <h1 class="inline-block p-5  font-bold">{{title}}</h1>
-        <h3 class="proxima-nova text-center font-normal">{{subtitle}}</h3>
+        <h1 class="inline-block text-9xl">{{title}}</h1>
+        <h3 class="proxima-nova text-center font-normal text-4xl">{{subtitle}}</h3>
     </div>
     <article  x-data="{ showBibles: false, showQuestions: false }" class="prose lg:prose-xl my-4 mx-auto">
         {{ content | safe }}
         <h3 @click="showBibles = !showBibles" class="cursor-pointer">
             <img src="/static/img/Book.svg" class="inline-block w-10 my-0"/>
-            <span> Bible verses</span>
+            <span class="scribble-big"> Bible verses</span>
             <span class="font-sans" x-show="showBibles">-</span>
             <span class="font-sans" x-show="!showBibles">+</span>
         </h3>
@@ -25,7 +25,7 @@ prism: true
         </ul>
         <h3 @click="showQuestions = !showQuestions" class="cursor-pointer">
             <img src="/static/img/Speech2.svg" class="inline-block w-10 my-0"/>
-            <span> Questions </span>
+            <span class="scribble-big"> Questions </span>
             <span class="font-sans" x-show="showQuestions">-</span>
             <span class="font-sans" x-show="!showQuestions">+</span>
         </h3>

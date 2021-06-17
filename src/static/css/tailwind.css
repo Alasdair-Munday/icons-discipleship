@@ -25,7 +25,6 @@ h1 {
 
 .proxima-nova {
   font-family: 'Proxima Nova';
-  font-size-adjust: 1;
 }
 
 img {
@@ -36,14 +35,23 @@ img {
   margin: 0 !important;
 }
 
-h1,h2,h3, strong {
+h1,h2,h3 {
   font-family: 'Garland', fallback, sans-serif;
-  font-size-adjust: 0.6;
+  font-weight: normal !important;
+  line-height: 0.7 !important;
+}
+.scribble, strong {
+  font-family: 'Garland', fallback, sans-serif;
+  line-height: 0.7 !important;
+  font-size: 2rem;
   font-weight: normal !important;
 }
-.scribble {
+
+.scribble-big {
   font-family: 'Garland', fallback, sans-serif;
-  font-size-adjust: 0.8;
+  line-height: 0.7 !important;
+  font-size: 3rem;
+  font-weight: normal !important;
 }
 
 .watercolour {

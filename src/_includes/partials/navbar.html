@@ -3,7 +3,7 @@
         <!--Logo etc-->
         <a href="/" class="flex flex-row items-center font-bold text-lg font-mono">
             <img src="/static/img/discipleship_logo_v2.png" class="w-20">
-            <span class="scribble text-xl sm:text-3xl">Five Icons of Discipleship</span>
+            <span class="scribble-big">Five Icons of Discipleship</span>
         </a>
 
         <!--Toggle button (hidden on large screens)-->
@@ -24,7 +24,7 @@
                                 <div class="flex lg:flex-1 justify-center">
                                     <img src="{{item.data.image}}" class="w-10">
                                 </div>
-                                <span class="text-xs brush-{{item.data.colour}} lg:ml-0 ml-2 scribble">{{item.data.title}}</span>
+                                <span class="brush-{{item.data.colour}} lg:ml-0 ml-2 scribble">{{item.data.title}}</span>
                             </a>
                         </li>
                     {% endfor %}
