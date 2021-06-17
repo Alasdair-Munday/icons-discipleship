@@ -64,8 +64,6 @@ questions:
       or place that he is wanting you to go and live in?
   - question: How are you going to practice the seeds?
 ---
-**The Seeds: Missional Action**
-
 **Jesus declared - the Kingdom of God is at hand. He is making all things new and so we join in - loving, serving, sharing, giving etc.**
 
 The Kingdom of God is like a seed - small, seemingly insignificant, yet it is God’s rule and reign growing. Much of this growth happens unseen, in secret, but we can be assured that God’s Kingdom is unstoppable. 

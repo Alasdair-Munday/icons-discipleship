@@ -74,8 +74,6 @@ questions:
       by the cross - “for me to live is Christ, to die is gain”. "
   - question: How are you going to practice the cross?
 ---
-**The Cross: Costly Love**
-
 **Discipleship is all about discovering what it means to be loved by God, trusting in all that He has done for us on the cross, and committing to take up our cross and follow Him.**
 
 In the corner of our Church prayer garden stands a large wooden cross. It’s presence dominates, reminding all who go there to pray, that Jesus is the centre of it all. His teachings, His miracles, His healings, His wonderful acts of love, but first and foremost His cross.

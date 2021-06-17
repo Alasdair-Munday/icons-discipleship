@@ -54,8 +54,6 @@ questions:
       have a rhythm, pattern or rule for your life? "
   - question: How are you going to practice the vine?
 ---
-**The Vine: Intentional Practice**
-
 **Discipleship involves the intentional ordering of our lives in connection with Jesus - through prayer, Bible study and other habits and patterns.**
 
 Jesus is the vine.  Our Father in Heaven the gardener. We are branches - made for connection with God. Kingdom apprentices - learning how to abide, choosing to obey, growing in our ability to hear, always being loved. 

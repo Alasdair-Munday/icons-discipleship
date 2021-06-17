@@ -72,8 +72,6 @@ questions:
       for help from your community?
   - question: How are you going to practice the table?
 ---
-**The Table: Team Living**
-
 **Discipleship is a family event - we are welcomed into a unique community where we are loved and known and where we learn how to know and love others.** 
 
 So many of life’s important moments are spent around a table. Eating, drinking, laughing and crying. Time given to  life’s stories and life’s many challenges. Moments of celebration and seasons of pain.

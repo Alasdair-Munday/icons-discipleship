@@ -76,8 +76,6 @@ questions:
       you trying to grasp or control things?"
   - question: How are you going to practice the fire?
 ---
-**The Fire: Powerful Presence**
-
 **Disciples of Jesus live life in the company of the Holy Spirit - God living within us -  learning how to listen, follow and be shaped by Him.**
 
 One evening Blaise Pascal, the great French philosopher, had an encounter with God so powerful that he wrote it down and sewed into his jacket to be carried wherever he went. One word stands out from his meeting with God:
