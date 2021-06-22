@@ -1,9 +1,9 @@
-<div class="w-full">
+<div class="w-full bg-white">
     <nav class="flex items-center justify-center flex-wrap p-3 container mx-auto" x-data="{ isOpen: false }" @keydown.escape="isOpen = false">
         <div class="flex flex-row lg:w-auto w-full">
             <!--Logo etc-->
             <a href="/" class="flex flex-row items-center font-bold text-lg font-mono">
-                <img src="/static/img/discipleship_logo_v2.png" class="w-20">
+                <img src="/static/img/discipleship_logo_v2.png" class="w-14">
                 <span class="scribble-big ml-3">Five Icons of Discipleship</span>
             </a>
 
@@ -30,6 +30,14 @@
                             </a>
                         </li>
                     {% endfor %}
+                    <li class="nav__item lg:flex">
+                        <a @click="isOpen = false" class="flex lg:flex-1 items-center lg:justify-end justify-center lg:flex-col text-ml no-underline hover:text-gray-200 px-3 py-2" href="/resources">
+                            <div class="flex lg:flex-1 justify-center">
+                                <img src="/static/img/Arrow2.svg" class="w-5">
+                            </div>
+                            <span class="lg:ml-0 ml-2 scribble">More</span>
+                        </a>
+                    </li>
                 </ul>
             {% endif %}
         </div>

@@ -24,7 +24,10 @@
   <body class=" from-white to-gray-100 bg-gradient-to-b">
     {% include "./partials/navbar.html" %}
 
+
+    <div class="container max-w-4xl bg-white shadow-sm pb-6 pt-2 px-6">
     {{ content | safe }}
+    </div>
 
     {% include "./partials/footer.html" %}
 

@@ -46,6 +46,17 @@ collections:
             display_fields: ["title"],
             value_field: "{{slug}}" }
 
+  - label: "Resources"
+    name: "resources"
+    folder: "src/resources"
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Image", name: "image", widget: "image" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
   - label: "Practices"
     name: "practices"
     folder: "src/practices"

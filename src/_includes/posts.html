@@ -2,76 +2,74 @@
 layout: default
 prism: true
 ---
-<div class="container max-w-4xl mt-6 bg-white px-6 py-3 shadow-sm">
-    <div class="flex justify-center">
-        <img class="w-1/3 h-full object-top object-cover inline-block" src="{{image}}">
-    </div>
-    <div class="flex flex-col align-middle brush-{{colour}} justify-center pb-5 mb-5">
-        <h1 class="inline-block text-9xl">{{title}}</h1>
-        <h3 class="proxima-nova text-center font-normal text-4xl">{{subtitle}}</h3>
-    </div>
-    <article  x-data="{ openTab: 0}" class="prose lg:prose-xl my-4 mx-auto">
-        <div class="flex flex-row justify-evenly border-b pb-5 border-gray-100">
-            <div @click="openTab = 0" class="px-2 flex flex-col cursor-pointer">
-                <div class="flex-1 flex justify-center pb-3">
-                    <img src="{{image}}" class="w-10 my-0"/>
-                </div>
-                <span class="scribble text-center text-xs">{{title}}</span>
-                <div :class="openTab===0 ? '': 'invisible'" class="brush-{{colour}} h-2"></div>
-            </div>
-
-
-            <div @click="openTab = 1" class="px-2 flex  flex-col cursor-pointer">
-                <div class="flex-1 flex justify-center pb-3">
-                    <img src="/static/img/Book.svg" class="w-10 my-0"/>
-                </div>
-                <span class="scribble text-center">Bible Verses</span>
-                <div :class="openTab===1 ? '': 'invisible'" class="brush-{{colour}} h-2"></div>
-            </div>
-
-
-            <div @click="openTab = 2" class="px-2 flex flex-col cursor-pointer">
-                <div class="flex-1 flex justify-center pb-3">
-                    <img src="/static/img/Speech2.svg" class="w-10 my-0"/>
-                </div>
-                <span class="scribble text-center">Questions</span>
-                <div :class="openTab===2 ? '': 'invisible'" class="brush-{{colour}} h-2"></div>
-            </div>
-        </div>
-
-
-        <div x-show="openTab===0">
-            {{ content | safe }}
-        </div>
-
-        <div x-show="openTab===1">
-            <p>
-                <strong>Here are some bible passages that we believe are at the heart of what this icon is all about.</strong>
-            </p>
-            <ul>
-                {% for item in passages %}
-                <li><span class="scribble">{{item.reference}} - </span> {{item.text}}</li>
-                {% endfor %}
-            </ul>
-        </div>
-
-        <div x-show="openTab===2">
-            <p><strong>Questions and Practices: How can we live in the light of {{title}}?</strong></p>
-            <p>
-             {{iconSettings.qintro}}
-            </p>
-            <ul>
-                {% for item in questions %}
-                <li>
-                    <p>{{item.question}}</p>
-                    {% if item.practice %}
-                    {% set practice = collections.practices | findBySlug(item.practice) %}
-                    <a href="{{practice.url}}">Find out more about {{practice.data.title}}</a></li>
-                    {% endif %}
-                </li>
-                {% endfor %}
-            </ul>
-            <p><strong>How are you going to practice {{title}}?</strong></p>
-        </div>
-    </article>
+<div class="flex justify-center">
+    <img class="w-1/3 h-full object-top object-cover inline-block" src="{{image}}">
 </div>
+<div class="flex flex-col align-middle brush-{{colour}} justify-center pb-5 mb-5">
+    <h1 class="inline-block text-9xl">{{title}}</h1>
+    <h3 class="proxima-nova text-center font-normal text-4xl">{{subtitle}}</h3>
+</div>
+<article  x-data="{ openTab: 0}" class="prose lg:prose-xl my-4 mx-auto">
+    <div class="flex flex-row justify-evenly border-b pb-5 border-gray-100">
+        <div @click="openTab = 0" class="px-2 flex flex-col cursor-pointer">
+            <div class="flex-1 flex justify-center pb-3">
+                <img src="{{image}}" class="w-10 my-0"/>
+            </div>
+            <span class="scribble text-center text-xs">{{title}}</span>
+            <div :class="openTab===0 ? '': 'invisible'" class="brush-{{colour}} h-2"></div>
+        </div>
+
+
+        <div @click="openTab = 1" class="px-2 flex  flex-col cursor-pointer">
+            <div class="flex-1 flex justify-center pb-3">
+                <img src="/static/img/Book.svg" class="w-10 my-0"/>
+            </div>
+            <span class="scribble text-center">Bible Verses</span>
+            <div :class="openTab===1 ? '': 'invisible'" class="brush-{{colour}} h-2"></div>
+        </div>
+
+
+        <div @click="openTab = 2" class="px-2 flex flex-col cursor-pointer">
+            <div class="flex-1 flex justify-center pb-3">
+                <img src="/static/img/Speech2.svg" class="w-10 my-0"/>
+            </div>
+            <span class="scribble text-center">Questions</span>
+            <div :class="openTab===2 ? '': 'invisible'" class="brush-{{colour}} h-2"></div>
+        </div>
+    </div>
+
+
+    <div x-show="openTab===0">
+        {{ content | safe }}
+    </div>
+
+    <div x-show="openTab===1">
+        <p>
+            <strong>Here are some bible passages that we believe are at the heart of what this icon is all about.</strong>
+        </p>
+        <ul>
+            {% for item in passages %}
+            <li><span class="scribble">{{item.reference}} - </span> {{item.text}}</li>
+            {% endfor %}
+        </ul>
+    </div>
+
+    <div x-show="openTab===2">
+        <p><strong>Questions and Practices: How can we live in the light of {{title}}?</strong></p>
+        <p>
+            {{iconSettings.qintro}}
+        </p>
+        <ul>
+            {% for item in questions %}
+            <li>
+                <p>{{item.question}}</p>
+                {% if item.practice %}
+                {% set practice = collections.practices | findBySlug(item.practice) %}
+                <a href="{{practice.url}}">Find out more about {{practice.data.title}}</a></li>
+                {% endif %}
+            </li>
+            {% endfor %}
+        </ul>
+        <p><strong>How are you going to practice {{title}}?</strong></p>
+    </div>
+</article>
