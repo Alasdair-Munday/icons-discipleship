@@ -16,7 +16,7 @@ prism: true
                 <div class="flex-1 flex justify-center pb-3">
                     <img src="{{image}}" class="w-10 my-0"/>
                 </div>
-                <span class="scribble-small text-center">{{title}}</span>
+                <span class="scribble text-center text-xs">{{title}}</span>
                 <div :class="openTab===0 ? '': 'invisible'" class="brush-{{colour}} h-2"></div>
             </div>
 
@@ -25,8 +25,7 @@ prism: true
                 <div class="flex-1 flex justify-center pb-3">
                     <img src="/static/img/Book.svg" class="w-10 my-0"/>
                 </div>
-                <span class="scribble-small text-center">Bible Verses</span>
-                <br/>
+                <span class="scribble text-center">Bible Verses</span>
                 <div :class="openTab===1 ? '': 'invisible'" class="brush-{{colour}} h-2"></div>
             </div>
 
@@ -35,7 +34,7 @@ prism: true
                 <div class="flex-1 flex justify-center pb-3">
                     <img src="/static/img/Speech2.svg" class="w-10 my-0"/>
                 </div>
-                <span class="scribble-small text-center">Questions</span>
+                <span class="scribble text-center">Questions</span>
                 <div :class="openTab===2 ? '': 'invisible'" class="brush-{{colour}} h-2"></div>
             </div>
         </div>
