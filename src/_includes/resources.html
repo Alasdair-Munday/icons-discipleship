@@ -8,24 +8,10 @@ layout: default
       {{content | safe}}
       <div class="border-t border-gray-200 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 sm:gap-4">
         {% for resource in collections.resources %}
-          <a href="{{resource.url}}" class="grid grid-cols-5 sm:grid-cols-1 sm:p-3 sm:m-2 m-1 sm:shadow-md shadow-sm hover:shadow-lg transition-all">
-            <div class="h-30 col-span-2 sm:col-span-1">
-              <img class="shadow-inner border w-full overflow-hidden  sm:border-gray-400 object-cover" src="{{resource.data.image}}"/>
-            </div>
-            <div class="flex flex-col sm:col-span-1 col-span-3 py-3 justify-center">
-              <span class="scribble text-center">{{resource.data.title}}</span>
-            </div>
-          </a>
+          {% include "./partials/polaroid-link.html" %}
         {% endfor %}
-        {% for worksheet in collections.worksheets %}
-          <a href="{{worksheet.url}}" class="w-full grid grid-cols-5 sm:grid-cols-1 sm:p-3 sm:m-2 m-1 sm:shadow-md shadow-sm hover:shadow-lg transition-all">
-            <div class="h-30 col-span-2 sm:col-span-1">
-              <img class="w-full shadow-inner border overflow-hidden  sm:border-gray-400 object-cover" src="{{worksheet.data.image}}"/>
-            </div>
-            <div class="flex flex-col sm:col-span-1 col-span-3 py-3 justify-center">
-              <span class="scribble py-3 text-center">{{worksheet.data.title}}</span>
-            </div>
-          </a>
+        {% for resource in collections.worksheets %}
+          {% include "./partials/polaroid-link.html" %}
         {% endfor %}
       </div>
     </article>
