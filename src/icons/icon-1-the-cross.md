@@ -3,6 +3,7 @@ title: The Cross
 subtitle: COSTLY LOVE
 image: /static/img/Cross.svg
 colour: blue
+name: cross
 description: It is at the cross that our journey of discipleship must begin, and
   it is to the cross that we must continually return.
 passages:

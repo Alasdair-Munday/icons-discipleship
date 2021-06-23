@@ -3,6 +3,7 @@ title: The Vine
 subtitle: DEEPENING CONNECTION
 image: /static/img/Vine.svg
 colour: green
+name: vine
 description: where grapes come from
 passages:
   - reference: John 15

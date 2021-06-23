@@ -3,6 +3,7 @@ title: The Seeds
 subtitle: MISSIONAL ACTION
 image: /static/img/Seeds.svg
 colour: yellow
+name: seeds
 description: Seeds plant things
 passages:
   - reference: Isaiah 61:1-2 (or 1-3

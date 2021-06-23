@@ -3,6 +3,7 @@ title: The Table
 subtitle: TEAM LIVING
 image: /static/img/Table1.svg
 colour: pink
+name: table
 description: The table is a thing
 passages:
   - reference: Acts 2.42-47
