@@ -1,6 +1,6 @@
 ---
 title: A Healthy Church
-image: /static/img/Speech2.svg
+image: https://source.unsplash.com/WvPQYDd-3Ow/1600x900
 description: When you pause and reflect upon the Church community that you are
   part of - is it a healthy community? Is it the kind of Church that Jesus
   dreams of? Here are some questions to ponder. These questions aren’t designed

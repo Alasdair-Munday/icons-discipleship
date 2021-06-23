@@ -1,6 +1,6 @@
 ---
 title: Building a Rule of life
-image: /static/img/Arrow1.svg
+image: https://source.unsplash.com/fS3tGOkp0xY/1600x900
 ---
  A rule of life is a way of organising how we live - call it a training program - around a set of practices and rhythms that help us carve out space within, alongside and around our busy lives so that we can enjoy the company of Jesus, be shaped to be more like Him and find ourselves partnering with Him in the world. A rule of life is about the practice of spiritual disciplines but also is about the using of everyday moments as moments of connection with God.
 

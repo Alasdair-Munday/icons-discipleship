@@ -6,12 +6,18 @@ layout: default
     </div>
     <article class="prose lg:prose-xl my-4 mx-auto">
       {{content | safe}}
-    <ul>
-    {% for resource in collections.resources %}
-      <li><a href="{{resource.url}}">{{resource.data.title}}</a></li>
-    {% endfor %}
-    {% for worksheet in collections.worksheets %}
-      <li><a href="{{worksheet.url}}">Application: {{worksheet.data.title}}</a></li>
-    {% endfor %}
-    </ul>
+      <div class="border-t border-gray-200 grid grid-cols-3 gap-4">
+        {% for resource in collections.resources %}
+          <a href="{{resource.url}}" class="grid grid-cols-1 p-3 m-2 shadow-md hover:shadow-lg transition-all">
+            <img class="shadow-inner border overflow-hidden border-gray-400" src="{{resource.data.image}}"/>
+            <span class="scribble py-3 text-center">{{resource.data.title}}</span>
+          </a>
+        {% endfor %}
+        {% for worksheet in collections.worksheets %}
+          <a href="{{worksheet.url}}" class="grid grid-cols-1 p-3 m-2 shadow-md hover:shadow-lg">
+            <img class="shadow-inner" src="{{worksheet.data.image}}"/>
+            <span class="scribble py-3 text-center">{{worksheet.data.title}}</span>
+          </a>
+        {% endfor %}
+      </div>
     </article>
