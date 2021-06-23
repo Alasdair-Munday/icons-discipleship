@@ -6,9 +6,12 @@ layout: default
     </div>
     <article class="prose lg:prose-xl my-4 mx-auto">
       {{content | safe}}
-    <ol>
+    <ul>
     {% for resource in collections.resources %}
       <li><a href="{{resource.url}}">{{resource.data.title}}</a></li>
     {% endfor %}
-    </ol>
+    {% for worksheet in collections.worksheets %}
+      <li><a href="{{worksheet.url}}">Application: {{worksheet.data.title}}</a></li>
+    {% endfor %}
+    </ul>
     </article>
