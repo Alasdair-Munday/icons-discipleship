@@ -92,9 +92,18 @@ h1,h2,h3 {
   background-size: 100% 100%;
 }
 
+.brush-white {
+  background-image: url("/static/img/Brush_White.svg");
+  background-size: 100% 100%;
+}
+
 .scribble-border {
   background-image: url("/static/img/Brush_Orange.svg");
   background-size: 100% 100%;
+}
+
+.grunge-bg {
+  background-image: url("/static/img/grunge-bg.svg") ;
 }
 
 /* Syntax Highlighting*/
