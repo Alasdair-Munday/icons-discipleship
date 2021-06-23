@@ -2,20 +2,30 @@
 layout: default
 prism: true
 ---
-  <div class="flex justify-center pb-5 mb-5 border-b border-gray-100">
-      <h1 class="inline-block p-5 font-bold">{{title}}</h1>
+  <div style="background-image: url('{{image}}'); background-size: 100% auto" class="p-5 flex justify-center mb-5 border-b border-gray-100">
+      <h1 class="inline-block brush-white p-5 font-bold">{{title}}</h1>
   </div>
   <article class="prose lg:prose-xl my-4 mx-auto">
       {% markdown description %}
-      <h3 class="text-white brush-blue scribble-big text-center mx-20"><img src="/static/img/Cross.svg" class="inline-block w-10 my-0 pr-1"/>The Cross</h3>
+      <div class="w-full flex justify-center">
+        <span class="brush-blue scribble-big px-10 text-center"><img src="/static/img/Cross.svg" class="inline-block w-10 my-0 pr-1"/>The Cross</span>
+      </div>
       {% markdown icons.cross %}
-      <h3 class="brush-orange scribble-big text-center mx-20"><img src="/static/img/Fire.svg" class="inline-block w-10 my-0 pr-1"/>The Fire</h3>
+      <div class="w-full flex justify-center">
+        <span class="brush-orange scribble-big text-center px-10 mx-20"><img src="/static/img/Fire.svg" class="inline-block w-10 my-0 pr-1"/>The Fire</span>
+      </div>
       {% markdown icons.fire %}
-      <h3 class="brush-yellow scribble-big text-center mx-20"><img src="/static/img/Seeds.svg" class="inline-block w-10 my-0 pr-1"/>The Seeds</h3>
+      <div class="w-full flex justify-center">
+        <span class="brush-yellow scribble-big text-center px-10 mx-20"><img src="/static/img/Seeds.svg" class="inline-block w-10 my-0 pr-1"/>The Seeds</span>
+      </div>
       {% markdown icons.seeds %}
-      <h3 class="brush-pink scribble-big text-center mx-20"><img src="/static/img/Table1.svg" class="inline-block w-10 my-0 pr-1"/>The Table</h3>
+      <div class="w-full flex justify-center">
+        <span class="brush-pink scribble-big text-center px-10 mx-20"><img src="/static/img/Table1.svg" class="inline-block w-10 my-0 pr-1"/>The Table</span>
+      </div>
       {% markdown icons.table %}
-      <h3 class="brush-green scribble-big text-center mx-20"><img src="/static/img/Vine.svg" class="inline-block w-10 my-0 pr-1"/>The Vine</h3>
+      <div class="w-full flex justify-center">
+        <span class="brush-green scribble-big text-center px-10 mx-20"><img src="/static/img/Vine.svg" class="inline-block w-10 my-0 pr-1"/>The Vine</span>
+      </div>
       {% markdown icons.vine %}
       <hr/>
       {% if summary %}

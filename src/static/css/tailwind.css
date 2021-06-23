@@ -103,7 +103,7 @@ h1,h2,h3 {
 }
 
 .grunge-bg {
-  background-image: url("/static/img/grunge-bg.svg") ;
+  background-image: url("/static/img/grunge-bg.svg");
 }
 
 /* Syntax Highlighting*/
