@@ -136,6 +136,12 @@ h1,h2,h3 {
   background-size: cover;
   background-position: center;
 }
+
+.icons-bg {
+  background-image: url("/static/img/icons-collage.png");
+  background-size: cover;
+  background-position: center;
+}
 /* Syntax Highlighting*/
 body :not(pre) > code[class*="language-"],
 body pre[class*="language-"] {
