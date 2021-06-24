@@ -2,12 +2,12 @@
 layout: default
 prism: true
 ---
-<div class="flex justify-center py-3 {{name}}-bg w-full">
+<div class="flex justify-center {{name}}-bg -mx-6 -mt-2 py-2">
     <div class="w-1/2">
-        <div class="flex justify-center">
+        <div class="flex justify-center brush-{{colour}}">
             <img class="w-2/3 sm:w-1/2 object-top object-cover inline-block" src="{{image}}">
         </div>
-        <div class="brush-{{colour}}">
+        <div class="brush-{{colour}} p-4">
             <h1 class="text-center sm:text-9xl text-7xl">{{title}}</h1>
             <h3 class="proxima-nova text-center font-normal sm:text-4xl text-2xl">{{subtitle}}</h3>
         </div>
