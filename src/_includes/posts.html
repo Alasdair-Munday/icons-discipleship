@@ -2,7 +2,7 @@
 layout: default
 prism: true
 ---
-<div class="flex justify-center {{name}}-bg -mx-6 -mt-2 py-2">
+<div class="flex justify-center {{name}}-bg -mx-6 -mt-2 py-6">
     <div class="w-1/2">
         <div class="flex justify-center brush-{{colour}}">
             <img class="w-2/3 sm:w-1/2 object-top object-cover inline-block" src="{{image}}">
@@ -13,7 +13,7 @@ prism: true
         </div>
     </div>
 </div>
-<article  x-data="{ openTab: 0}" class="prose lg:prose-xl my-4 mx-auto">
+<article  x-data="{ openTab: 0}" class="prose lg:prose-xl -mt-11 pt-6 bg-white my-4 mx-auto">
     <div class="flex flex-row justify-evenly border-b pb-5 border-gray-100">
         <div @click="openTab = 0" class="px-2 flex flex-col cursor-pointer">
             <div class="flex-1 flex justify-center pb-3">
