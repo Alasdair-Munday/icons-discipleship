@@ -1,10 +1,10 @@
 ---
 layout: default
 ---
-    <div style="background-image: url('https://source.unsplash.com/5d20kdvFCfA/640x426'); background-size: 100% auto; background-position: center" class="p-10 -mx-6 -mt-2 flex justify-center mb-5 border-b border-gray-100">
+    <div style="background-image: url('https://source.unsplash.com/5d20kdvFCfA/640x426'); background-size: 100% auto; background-position: center" class="pt-36 px-10 -mx-6 -mt-2 flex justify-center border-b border-gray-100">
         <h1 class="brush-white inline-block p-5 font-bold">{{title}}</h1>
     </div>
-    <article class="prose lg:prose-xl my-4 mx-auto">
+  <article class="p-4 -mt-10 bg-white prose lg:prose-xl my-4 mx-auto">
       {{content | safe}}
       <div class="border-t border-gray-200 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 sm:gap-4">
         {% for resource in collections.resources %}
