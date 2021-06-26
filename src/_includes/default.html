@@ -20,6 +20,8 @@
         navigator.serviceWorker.register("/service-worker.js");
     </script> 
     <link rel="manifest" href="/manifest.webmanifest">
+    <link rel="preload" href="/static/fonts/Proxima-Nova-Light.otf" as="font" type="font/otf" crossorigin/>
+    <link rel="preload" href="/static/fonts/Garland.otf" as="font" type="font/otf" crossorigin/>
   </head>
   <body class="from-white to-gray-200 bg-gradient-to-b">
     {% include "./partials/navbar.html" %}
