@@ -16,29 +16,29 @@ After each icon, often within the questions, we referenced a series of practices
 
 This is not a complete list, but more than enough to get us started:
 
-Silence
-Solitude
-Exercise
-Bible study
-Prayer
-Simplicity
-Fellowship
-Hospitality
-Surrender
-Confession
-Fasting
-Sabbath
-Celebration
-Praise
-Evangelism
-Caring for creation
-Examen
+* Silence
+* Solitude
+* Exercise
+* Bible study
+* Prayer
+* Simplicity
+* Fellowship
+* Hospitality
+* Surrender
+* Confession
+* Fasting
+* Sabbath
+* Celebration
+* Praise
+* Evangelism
+* Caring for creation
+* Examen
 
 A rule of life takes these practices and builds them into our lives - starting small, always relying on the Holy Spirit and walking patiently.
 
-|Icon   | Cross     | Table | Seeds     | Fire  | Vine      |
-|-------|-----------|-------|-----------|-------|-----------|
-|Daily  |Confession |       |           |       |Bible Study|
-|Weekly |           |Hospitality|           |Fasting|           |
-|Monthly|           |       |Evangelism |       |           |
-|Yearly |           |       |           |       |           |
+| Icon    | Cross      | Table       | Seeds      | Fire    | Vine        |
+| ------- | ---------- | ----------- | ---------- | ------- | ----------- |
+| Daily   | Confession |             |            |         | Bible Study |
+| Weekly  |            | Hospitality |            | Fasting |             |
+| Monthly |            |             | Evangelism |         |             |
+| Yearly  |            |             |            |         |             |
