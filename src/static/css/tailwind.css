@@ -24,8 +24,7 @@ h1 {
 }
 
 .prose p img {
-  @apply sm:w-1/2 w-full sm:float-right shadow-lg border-white border-4 m-4 rotate-12;
-  rotate: 2deg;
+  @apply sm:w-1/2 w-full sm:float-right shadow-md bg-gray-50 border-white border-4 m-4 rotate-12;
 }
 
 .prose a img {
