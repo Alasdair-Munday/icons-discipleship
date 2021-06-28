@@ -23,16 +23,21 @@ h1 {
   @apply tracking-tighter mb-3 text-center sm:text-7xl text-5xl;
 }
 
+.prose p img {
+  @apply sm:w-1/2 w-full sm:float-right shadow-lg border-white border-4 m-4 rotate-12;
+  rotate: 2deg;
+}
+
+.prose a img {
+  margin:0 !important;
+}
+
 .proxima-nova {
   font-family: 'Proxima Nova';
 }
 
 img {
   height: 100%;
-}
-
-.prose img {
-  margin: 0 !important;
 }
 
 h1,h2,h3 {
@@ -60,6 +65,7 @@ h1,h2,h3 {
   font-size: 2.5rem;
   font-weight: normal !important;
 }
+
 
 .brush-green {
   background-image: url("/static/img/Brush_Green.svg");
@@ -136,6 +142,7 @@ h1,h2,h3 {
   background-size: cover;
   background-position: center;
 }
+
 /* Syntax Highlighting*/
 body :not(pre) > code[class*="language-"],
 body pre[class*="language-"] {

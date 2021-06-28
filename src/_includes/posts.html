@@ -13,41 +13,41 @@ prism: true
         </div>
     </div>
 </div>
-<article  x-data="{ openTab: 0}" class="prose lg:prose-xl -mt-11 pt-6 bg-white my-4 mx-auto">
+<article  x-data="{ openTab: window.location.hash ? window.location.hash.substring(1) : 'description'}" class="prose lg:prose-xl -mt-11 pt-6 bg-white my-4 mx-auto">
     <div class="flex flex-row justify-evenly border-b pb-5 border-gray-100">
-        <div @click="openTab = 0" class="px-2 flex flex-col cursor-pointer">
+        <a  @click="openTab = 'description'; window.location.hash=openTab" class="px-2 flex flex-col cursor-pointer">
             <div class="flex-1 flex justify-center pb-3">
                 <img src="{{image}}" class="w-10 my-0"/>
             </div>
-            <span class="scribble text-center text-xs">{{title}}</span>
-            <div :class="openTab===0 ? '': 'invisible'" class="brush-{{colour}} h-2"></div>
-        </div>
+            <span class="scribble text-center text-xs no-underline">{{title}}</span>
+            <div :class="openTab==='description' ? '': 'invisible'" class="brush-{{colour}} h-2"></div>
+        </a>
 
 
-        <div @click="openTab = 1" class="px-2 flex  flex-col cursor-pointer">
+        <a @click="openTab = 'bible'; window.location.hash=openTab" class="px-2 flex  flex-col no-underline cursor-pointer">
             <div class="flex-1 flex justify-center pb-3">
                 <img src="/static/img/Book.svg" class="w-10 my-0"/>
             </div>
             <span class="scribble text-center">Bible Verses</span>
-            <div :class="openTab===1 ? '': 'invisible'" class="brush-{{colour}} h-2"></div>
-        </div>
+            <div :class="openTab==='bible' ? '': 'invisible'" class="brush-{{colour}} h-2"></div>
+        </a>
 
 
-        <div @click="openTab = 2" class="px-2 flex flex-col cursor-pointer">
+        <a @click="openTab = 'questions'; window.location.hash=openTab" class="px-2 flex flex-col no-underline cursor-pointer">
             <div class="flex-1 flex justify-center pb-3">
                 <img src="/static/img/Speech2.svg" class="w-10 my-0"/>
             </div>
             <span class="scribble text-center">Questions</span>
-            <div :class="openTab===2 ? '': 'invisible'" class="brush-{{colour}} h-2"></div>
-        </div>
+            <div :class="openTab==='questions' ? '': 'invisible'" class="brush-{{colour}} h-2"></div>
+        </a>
     </div>
 
 
-    <div x-show="openTab===0">
+    <div x-show="openTab==='description'">
         {{ content | safe }}
     </div>
 
-    <div x-show="openTab===1">
+    <div x-show="openTab==='bible'">
         <p>
             <strong>Here are some bible passages that we believe are at the heart of what this icon is all about.</strong>
         </p>
@@ -58,7 +58,7 @@ prism: true
         </ul>
     </div>
 
-    <div x-show="openTab===2">
+    <div x-show="openTab==='questions'">
         <p><strong>Questions and Practices: How can we live in the light of {{title}}?</strong></p>
         <p>
             {{iconSettings.qintro}}
