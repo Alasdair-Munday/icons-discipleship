@@ -47,18 +47,18 @@ prism: true
         {{ content | safe }}
     </div>
 
-    <div x-show="openTab==='bible'" class="content">
+    <div x-show="openTab==='bible'">
         <p>
             <strong>Here are some bible passages that we believe are at the heart of what this icon is all about.</strong>
         </p>
         <ul>
             {% for item in passages %}
-            <li><span class="scribble">{{item.reference}} - </span> {{item.text}}</li>
+            <li><span class="makeroom scribble">{{item.reference}} - </span> {{item.text}}</li>
             {% endfor %}
         </ul>
     </div>
 
-    <div x-show="openTab==='questions'" class="content">
+    <div x-show="openTab==='questions'">
         <p><strong>Questions and Practices: How can we live in the light of {{title}}?</strong></p>
         <p>
             {{iconSettings.qintro}}
@@ -74,7 +74,7 @@ prism: true
             </li>
             {% endfor %}
         </ul>
-        <p><strong>How are you going to practice {{title}}?</strong></p>
+        <p><strong class="makeroom">How are you going to practice {{title}}?</strong></p>
     </div>
 </article>  
 <div class="icon-foot">

@@ -27,7 +27,7 @@ h1 {
   @apply sm:w-1/2 w-full sm:float-right shadow-md bg-gray-50 border-white border-4 m-4 rotate-12;
 }
 
-.prose a img {
+.prose :not(p) img {
   margin:0 !important;
 }
 
@@ -148,10 +148,10 @@ h1,h2,h3 {
   margin-right: -1.5rem;
 }
 
-article.prose .content>:last-child::before{
+article.prose .content>:last-child::before, article.prose :last-child>.makeroom::before{
   content: '';
-  width: 10em;
-  height: 5em;
+  width: 6em;
+  height: 8em;
   float: right;
   clear: right;
 }
