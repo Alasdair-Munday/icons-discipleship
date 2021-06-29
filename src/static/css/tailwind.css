@@ -137,9 +137,23 @@ h1,h2,h3 {
 }
 
 .icons-bg {
-  background-image: url("/static/img/icons-collage.png");
+  background-image: url("/static/img/FrontCover_Disipleship.jpg");
   background-size: cover;
   background-position: center;
+}
+
+.icon-foot {
+  margin-bottom: -6.5rem;
+  margin-left: -1.5rem;
+  margin-right: -1.5rem;
+}
+
+article.prose .content>:last-child::before{
+  content: '';
+  width: 10em;
+  height: 5em;
+  float: right;
+  clear: right;
 }
 
 /* Syntax Highlighting*/

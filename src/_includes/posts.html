@@ -2,7 +2,7 @@
 layout: default
 prism: true
 ---
-<div class="flex justify-center {{name}}-bg -mx-6 -mt-2 py-6">
+<div class="flex justify-center icons-bg -mx-6 -mt-2 py-6">
     <div class="w-1/2">
         <div class="flex justify-center brush-{{colour}}">
             <img class="w-2/3 sm:w-1/2 object-top object-cover inline-block" src="{{image}}">
@@ -43,11 +43,11 @@ prism: true
     </div>
 
 
-    <div x-show="openTab==='description'">
+    <div x-show="openTab==='description'" class="content">
         {{ content | safe }}
     </div>
 
-    <div x-show="openTab==='bible'">
+    <div x-show="openTab==='bible'" class="content">
         <p>
             <strong>Here are some bible passages that we believe are at the heart of what this icon is all about.</strong>
         </p>
@@ -58,7 +58,7 @@ prism: true
         </ul>
     </div>
 
-    <div x-show="openTab==='questions'">
+    <div x-show="openTab==='questions'" class="content">
         <p><strong>Questions and Practices: How can we live in the light of {{title}}?</strong></p>
         <p>
             {{iconSettings.qintro}}
@@ -76,4 +76,7 @@ prism: true
         </ul>
         <p><strong>How are you going to practice {{title}}?</strong></p>
     </div>
-</article>
+</article>  
+<div class="icon-foot">
+    <img class="relative -top-20" src='/static/img/{{name}}_foot.png'/>
+</div>
