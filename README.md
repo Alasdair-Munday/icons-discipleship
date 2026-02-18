@@ -32,3 +32,9 @@ npm run build
 ```
 npm run start
 ```
+
+
+## CMS
+
+This project now uses **Decap CMS** (the successor to Netlify CMS).
+The admin UI is available at `/admin` and continues to use Netlify Identity + Git Gateway.

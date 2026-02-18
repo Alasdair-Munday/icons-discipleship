@@ -1,7 +1,11 @@
 module.exports = {
   purge: {
     mode: "all",
-    content: ["./**/*.html"],
+    content: [
+      "./src/**/*.{html,njk,md}",
+      "./src/_includes/**/*.html",
+      "./src/_includes/**/*.njk",
+    ],
     options: {
       whitelist: [],
     },

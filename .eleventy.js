@@ -9,7 +9,7 @@ const markdown = require("markdown-it")({
 });
 
 module.exports = function (eleventyConfig) {
-  // Disable automatic use of your .gitignore
+  // Keep generated CSS in `_tmp` available to Eleventy during local development.
   eleventyConfig.setUseGitIgnore(false);
 
   // Merge data instead of overriding
@@ -70,7 +70,9 @@ module.exports = function (eleventyConfig) {
       let minified = htmlmin.minify(content, {
         useShortDoctype: true,
         removeComments: true,
-        collapseWhitespace: true
+        collapseWhitespace: true,
+        minifyCSS: true,
+        minifyJS: true
       });
       return minified;
     }

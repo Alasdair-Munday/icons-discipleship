@@ -4,7 +4,9 @@
 
 @font-face {
   font-family: 'Garland';
-  src: url('/static/fonts/Garland.otf') format('opentype');
+  src: url('/static/fonts/Garland.woff2') format('woff2'),
+       url('/static/fonts/Garland.woff') format('woff'),
+       url('/static/fonts/Garland.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -36,7 +38,8 @@ h1 {
 }
 
 img {
-  height: 100%;
+  max-width: 100%;
+  height: auto;
 }
 
 h1,h2,h3 {
