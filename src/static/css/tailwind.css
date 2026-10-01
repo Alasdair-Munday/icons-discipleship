@@ -4,10 +4,32 @@
 
 @font-face {
   font-family: 'Garland';
-  src: url('/static/fonts/Garland.otf') format('opentype');
+  src: url('/static/fonts/Garland.woff2') format('woff2'),
+       url('/static/fonts/Garland.woff') format('woff'),
+       url('/static/fonts/Garland.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
+}
+
+.skip-link {
+  position: fixed;
+  top: 0.5rem;
+  left: 0.5rem;
+  z-index: 50;
+  padding: 0.5rem 0.75rem;
+  background: white;
+  color: black;
+  transform: translateY(-200%);
+}
+
+.skip-link:focus {
+  transform: translateY(0);
+}
+
+:focus-visible {
+  outline: 3px solid currentColor;
+  outline-offset: 3px;
 }
 
 @font-face {
