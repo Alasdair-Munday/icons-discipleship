@@ -6,7 +6,7 @@ prism: true
     <div class="flex justify-center icons-bg -mx-6 -mt-2 py-6">
         <div class="w-1/2">
             <div class="flex justify-center brush-{{colour}}">
-                <img class="w-2/3 sm:w-1/2 object-top object-cover inline-block" src="{{image}}">
+                <img class="w-2/3 sm:w-1/2 object-top object-cover inline-block" src="{{image}}" alt="" decoding="async">
             </div>
             <div class="brush-{{colour}} p-4">
                 <h1 class="text-center sm:text-9xl text-7xl">{{title}}</h1>
@@ -16,31 +16,31 @@ prism: true
     </div>
     <article   class="prose lg:prose-xl -mt-11 pt-6 bg-white my-4 mx-auto">
         <div class="flex flex-row justify-evenly border-b pb-5 border-gray-100">
-            <a  @click="openTab = 'description'; window.location.hash=openTab" class="px-2 flex flex-col cursor-pointer">
+            <button type="button" @click="openTab = 'description'; window.location.hash=openTab" :aria-pressed="openTab === 'description' ? 'true' : 'false'" class="px-2 flex flex-col cursor-pointer bg-transparent border-0">
                 <div class="flex-1 flex justify-center pb-3">
-                    <img src="{{image}}" class="w-10 my-0"/>
+                    <img src="{{image}}" class="w-10 my-0" alt="" loading="lazy" decoding="async">
                 </div>
                 <span class="scribble text-center text-xs no-underline">{{title}}</span>
-                <div :class="openTab==='description' ? '': 'invisible'" class="brush-{{colour}} h-2"></div>
-            </a>
+                <div :class="openTab==='description' ? '': 'invisible'" class="brush-{{colour}} h-2" aria-hidden="true"></div>
+            </button>
 
 
-            <a @click="openTab = 'bible'; window.location.hash=openTab" class="px-2 flex  flex-col no-underline cursor-pointer">
+            <button type="button" @click="openTab = 'bible'; window.location.hash=openTab" :aria-pressed="openTab === 'bible' ? 'true' : 'false'" class="px-2 flex flex-col no-underline cursor-pointer bg-transparent border-0">
                 <div class="flex-1 flex justify-center pb-3">
-                    <img src="/static/img/Book.svg" class="w-10 my-0"/>
+                    <img src="/static/img/Book.svg" class="w-10 my-0" alt="" loading="lazy" decoding="async">
                 </div>
                 <span class="scribble text-center">Bible Verses</span>
-                <div :class="openTab==='bible' ? '': 'invisible'" class="brush-{{colour}} h-2"></div>
-            </a>
+                <div :class="openTab==='bible' ? '': 'invisible'" class="brush-{{colour}} h-2" aria-hidden="true"></div>
+            </button>
 
 
-            <a @click="openTab = 'questions'; window.location.hash=openTab" class="px-2 flex flex-col no-underline cursor-pointer">
+            <button type="button" @click="openTab = 'questions'; window.location.hash=openTab" :aria-pressed="openTab === 'questions' ? 'true' : 'false'" class="px-2 flex flex-col no-underline cursor-pointer bg-transparent border-0">
                 <div class="flex-1 flex justify-center pb-3">
-                    <img src="/static/img/Speech2.svg" class="w-10 my-0"/>
+                    <img src="/static/img/Speech2.svg" class="w-10 my-0" alt="" loading="lazy" decoding="async">
                 </div>
                 <span class="scribble text-center">Questions</span>
-                <div :class="openTab==='questions' ? '': 'invisible'" class="brush-{{colour}} h-2"></div>
-            </a>
+                <div :class="openTab==='questions' ? '': 'invisible'" class="brush-{{colour}} h-2" aria-hidden="true"></div>
+            </button>
         </div>
 
 
@@ -79,6 +79,6 @@ prism: true
         </div>
     </article>  
     <div class="icon-foot" x-show="openTab==='description'">
-        <img class="relative w-full -top-20" src='/static/img/{{name}}_foot.png'/>
+        <img class="relative w-full -top-20" src="/static/img/{{name}}_foot.png" alt="" loading="lazy" decoding="async">
     </div>
 </div>
